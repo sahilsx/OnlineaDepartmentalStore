@@ -1,0 +1,7 @@
+C:\Users\ff025\source\repos\online-departmental_store\online-departmental_store\bin\Debug\online-departmental_store.exe.config
+C:\Users\ff025\source\repos\online-departmental_store\online-departmental_store\bin\Debug\online-departmental_store.exe
+C:\Users\ff025\source\repos\online-departmental_store\online-departmental_store\bin\Debug\online-departmental_store.pdb
+C:\Users\ff025\source\repos\online-departmental_store\online-departmental_store\obj\Debug\online-departmental_store.csproj.AssemblyReference.cache
+C:\Users\ff025\source\repos\online-departmental_store\online-departmental_store\obj\Debug\online-departmental_store.csproj.CoreCompileInputs.cache
+C:\Users\ff025\source\repos\online-departmental_store\online-departmental_store\obj\Debug\online-departmental_store.exe
+C:\Users\ff025\source\repos\online-departmental_store\online-departmental_store\obj\Debug\online-departmental_store.pdb
